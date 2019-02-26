@@ -17,7 +17,7 @@ His current research interests include data mining and machine learning, especia
 * 01/2019: Our paper “Graph Neural Networks for Social Recmmendation” is accepted by WWW 2019.
 
 ## Selected Publications
-* ** <u>Wenqi Fan</u>**, Yao Ma , Qing Li, Yuan He, Eric Zhao, Jiliang Tang, and Dawei Yin. 
+* **<u>Wenqi Fan</u>**, Yao Ma , Qing Li, Yuan He, Eric Zhao, Jiliang Tang, and Dawei Yin. 
 **Graph Neural Networks for Social Recommendation.** In Proceedings of the 28th International Conference on World Wide Web (WWW), 2019. (Full, Accept rate: 18%.)  [Preprint](https://arxiv.org/abs/1902.07243)
 * **<u>Wenqi Fan</u>**, Qing Li, Min Cheng. **Deep Modeling of Social Relations for Recommendation.**  In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence. 2018. (Student Poster.) [PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16075)
 
